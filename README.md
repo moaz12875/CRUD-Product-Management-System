@@ -19,10 +19,6 @@ It allows you to add, update, delete, and search products with data persistence 
   - Category
 - Data saved in **localStorage** (persists even after refreshing the page).
 
----
-
-## 🖼️ Preview
-(Add a screenshot of your app here)
 
 ---
 
@@ -33,5 +29,5 @@ It allows you to add, update, delete, and search products with data persistence 
 - LocalStorage API
 
 ---
-
-## 📂 Project Structure
+## How to use
+[👉Try it live](http://localhost:63342/untitled/index.html?_ijt=k7airjl17ikkd25of928gdf1r4&_ij_reload=RELOAD_ON_SAVE)
